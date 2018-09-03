@@ -1,5 +1,7 @@
 # Drag'n'Drop Email Builder for Sendy
 
+**PLEASE NOTE: THE PROJECT IS ARCHIVED, NO SUPPORT IS PROVIDED FOR THIS PROJECT!!!** 
+
 Drag'n'drop email builder for [Sendy](https://sendy.co)
 
 ![email-builder-ui](https://user-images.githubusercontent.com/10295466/37458623-a03b9c4c-2856-11e8-9061-c8e126937729.png)
